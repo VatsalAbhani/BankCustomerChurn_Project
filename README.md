@@ -20,6 +20,8 @@ The dataset used is 'Bank Customer Churn Prediction' from Kaggle. The dataset in
 - EstimatedSalary: The estimated salary of the customer
 - Exited: Whether the customer has churned (1 = yes, 0 = no)
 
+Results
+
 - Churn Prediction Model: Achieved 86% accuracy using a Random Forest classifier.
 - A/B Testing Results: The treatment group showed an 18% reduction in churn compared to the control group, validated through statistical significance testing.
 - Business Impact: Provided actionable insights into customer behavior, allowing for targeted interventions to reduce churn.
